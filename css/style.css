@@ -35,7 +35,7 @@ body {
     animation-duration: 5s;
     animation-iteration-count: infinite;
     animation-timing-function: linear;
-    animation-name: beet;
+    animation-name: spin;
 }
 .planet:after {
     content: '';
